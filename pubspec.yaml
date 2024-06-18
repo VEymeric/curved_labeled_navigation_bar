@@ -1,7 +1,8 @@
-name: curved_labeled_navigation_bar
+name: curved_labeled_navigation_bar_web
 description: Stunning Animating Curved Shape Navigation Bar. Adjustable color, background color, animation curve, animation duration.
 version: 2.0.2
 homepage: https://github.com/namanh11611/curved_labeled_navigation_bar
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
@@ -10,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   meta: ^1.2.4
+  universal_io: ^2.2.2
 
 dev_dependencies:
   flutter_test:

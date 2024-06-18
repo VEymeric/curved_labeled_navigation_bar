@@ -1,8 +1,7 @@
-import 'dart:io';
-
-import 'package:curved_labeled_navigation_bar/curved_navigation_bar_item.dart';
-import 'package:curved_labeled_navigation_bar/src/nav_bar_item_widget.dart';
+import 'package:curved_labeled_navigation_bar_web/curved_navigation_bar_item.dart';
+import 'package:curved_labeled_navigation_bar_web/src/nav_bar_item_widget.dart';
 import 'package:flutter/material.dart';
+import 'package:universal_io/io.dart';
 
 import 'src/nav_custom_painter.dart';
 
